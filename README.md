@@ -32,7 +32,7 @@ code goes here
 S0. (State 0) you begin with the starting point: null   
 S1. _to be continued_
    
-Tracing table (deconstruction of input/output)
+Tracing table (deconstruction of input/output):
    
 State nr. | State | Operation
 ------------|------------ | -------------
