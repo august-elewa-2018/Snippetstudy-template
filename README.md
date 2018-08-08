@@ -28,7 +28,27 @@ code goes here
 ```
 [repl.it]()  
 [pythontutor]()  
+
+S0. (State 0) you begin with the starting point: null   
+S1. _to be continued_
    
+State & operations deconstruction (input/output)
+   
+State nr. | State | Operation
+------------|------------ | -------------
+S0  | null |  
+ . |  | Boolean (null)
+S1 | false | 
+. | | Void (undefined; "undefined")
+S2 | undefined | 
+. |  | Number (Number; Nan)
+S3 | Nan | 
+. |  | typeof (string; "Number")
+S4 | "Number" | 
+. | | "Number".toString
+S5| "Number" | 
+. | | typeof "number" (BECAUSE "number" is actually a string. "n-u-m-b-e-r"
+S6 | "string" | 
 ## Vocabulary
    
 ## Review
